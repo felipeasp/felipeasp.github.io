@@ -1,6 +1,6 @@
 baseURL = 'https://felipeasp.github.io/'
 languageCode = 'en-us'
-title = 'Felipe S. Pires | Security & Infra'
+title = 'Felipe A. S. Pires | Security & Infra'
 theme = 'terminal'
 
 [params]
@@ -8,7 +8,7 @@ theme = 'terminal'
   showMenuItems = 2 
 
   [params.logo]
-    logoText = 'felipe@devstation:~$'
+    logoText = 'felipeasp@devstation:~$'
     logoHomeLink = '/'
 
 [menu]
